@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW4_q5, read data from a file into array A and B, then cacluate product of them and store results into array C
  */
 
