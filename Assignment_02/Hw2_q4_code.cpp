@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW2_q2, give user a calcuator menu, calcuate area of circle, rectangle or triangle base on user's choice.
  */
 #include<iostream>
