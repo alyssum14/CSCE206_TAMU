@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW3_q4, user and computer roll dice for 10 rounds, calcuate how many round each of them wins, and judge the grande winner
  */
 
