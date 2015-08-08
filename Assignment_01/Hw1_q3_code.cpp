@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW1_q3, given initial velocity(u), acceleration(a) and time taken(t), calculate final velocity(v),displacement(s) and square of v(v3)
  */
 
