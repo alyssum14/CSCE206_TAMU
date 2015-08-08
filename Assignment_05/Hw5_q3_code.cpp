@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW5_q3, using binary search algorithm to search last 3 digits of UIN in RandomNumbers created in Hw5_q2 and report if the number is found or not. Then let user input number and search it, if the number is negative then search its positive counterpart in array.
  */
 
