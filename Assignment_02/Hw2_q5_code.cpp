@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: calculate the sum of first n numbers, sum of even numbers and sum of odd numbers that user entered
  */
 
