@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW5_q4, let user input two strings, convert them into csrings and create 3rd cstring to store concatenation of them.
  */
 
