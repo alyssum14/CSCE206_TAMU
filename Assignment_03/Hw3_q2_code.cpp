@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: Hw3_q2,using nested loop to print a pattern as below:
  **
  ****
