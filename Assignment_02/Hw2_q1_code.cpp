@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW2_q1, wait for user to randomly pick a card between 1 and 20
  */
 
