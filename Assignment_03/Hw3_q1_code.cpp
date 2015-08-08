@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW3_q1,input numbers from a file, which is manully created, calcuate the max, man and count of those numbers
  */
 
