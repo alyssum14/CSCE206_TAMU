@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW5_q2, randomly generate 100 numbers between 0 and 1000 then store them in array RandomNumbers, using selection sort algorithm sort the array in non-decreasing order. Then initialize another array TerminalSum by adding each pair of terminal elements form RandomNumbers(e.g Terminal[0]=RandomNumbers[0] + RandomNumbers[1]...) and sort it in non-decreasing order. Disply elements of above arries.
  */
 
