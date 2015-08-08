@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW4_q1, show a menu that display choices of sum two arguments, the arguments could be int, char or float. Then overload add function based on user's choice.
  */
 
