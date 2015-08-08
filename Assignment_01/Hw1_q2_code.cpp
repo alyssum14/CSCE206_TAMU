@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW1_q2, conversion of Celsius temperature and Fahrenheit
  */
 
