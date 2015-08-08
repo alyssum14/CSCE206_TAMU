@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW5_q4, using pointer to swap the first half of the elements in array RandomNumbers, which is created from Hw5_q2, with second half of the elements.
  */
 
