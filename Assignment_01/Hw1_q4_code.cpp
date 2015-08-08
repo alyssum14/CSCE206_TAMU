@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW1_q4, calcuate oncampus-plan, offcampus-plan and total revnue of college dining hall
  */
 
