@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW1_q5, organize information that user inputed into a simple story
  */
 
