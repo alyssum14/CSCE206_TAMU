@@ -1,7 +1,6 @@
 
 /*
- Name: Zhang Xin
- UIN: 821007370
+ 
  Purpose: Hw_q1, Calculate the subtotal and grade point for three assignments
  */
 
