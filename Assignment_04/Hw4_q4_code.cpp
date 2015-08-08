@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW4_q4, read data from a file into 2d array and calculate the sum and average for each column. Then build a function that transpose original function.
  */
 
