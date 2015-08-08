@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW2_q2, calcuate total cost and discount of hambergers based on quantity 
  */
 #include<iostream>
