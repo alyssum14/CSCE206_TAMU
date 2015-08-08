@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: Hw5_q1, using vectors to read numbers from a file, copy them into another vector, let users input element into vector. Then reverse vector and delete some elements in vector.
  */
 
