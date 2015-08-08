@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW4_q2, let user decide how many time a dice should be tossed, then calculate probablity of getting head and tails each round.
  */
 #include <iostream>
