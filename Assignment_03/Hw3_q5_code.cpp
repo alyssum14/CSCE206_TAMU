@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: HW2_q5, wait user input a number N between 50 and 100, generate 20 numbers between 1 and N, then input them into a file and find prime number among them. In this case, funcation
  */
 #include <iostream>
