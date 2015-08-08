@@ -1,6 +1,4 @@
 /*
- Name: Zhang Xin
- UIN: 821007370
  Purpose: Hw4_q3, read rainfall data from a file then build arraies and functions to display it and calculate total rainfal for a year, average monthly rainfall, max_rainfall and min_rainfall.
  */
 
